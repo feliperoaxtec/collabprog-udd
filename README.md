@@ -7,5 +7,6 @@ esto es solo un párrafo
 esto también es un párrafo
 
 * hola01
-* hola02
+  * hola02
 * hola03
+  * hola04
